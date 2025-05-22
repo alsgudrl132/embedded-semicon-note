@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e89482926f5be1",
+        "id": "c180035487a94db6",
         "type": "tabs",
         "children": [
           {
-            "id": "89dd88d48f5a5e0e",
+            "id": "edd9118e15bce47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "521/5 21 1fadbd5938f080ca9335c924911c66a7.md",
+                "file": "520 ubuntu 및 vivado설치/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 21 1fadbd5938f080ca9335c924911c66a7"
+              "title": "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7"
             }
           }
         ]
@@ -168,30 +168,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89dd88d48f5a5e0e",
+  "active": "a83648da3d5d6cf5",
   "lastOpenFiles": [
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7.md",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 9.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 8.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 7.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 6.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 5.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 4.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 3.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 22.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/image 21.png",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libtinfo.so.6.5",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libncursesw.so.6.5",
-    "520/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7",
-    "520",
+    "0521 vivado 프로젝트생성 및 AND게이트 생성, 회로확인/5 21 1fadbd5938f080ca9335c924911c66a7.md",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec.md",
+    "Pasted image 20250522123315.png",
+    "Pasted image 20250522123637.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 14.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 13.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 12.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 11.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 10.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 9.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec/image 8.png",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자/5 22 1fadbd5938f080e8ae98fddafcc3aaec",
+    "522/522.md",
+    "522.md",
+    "0522 vscode설치, c언어 프로젝트생성, 데이터타입, 자료형, 변수, 연산자",
+    "520 ubuntu 및 vivado설치/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7.md",
+    "520 ubuntu 및 vivado설치/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libtinfo.so.6.5",
+    "520 ubuntu 및 vivado설치/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libncursesw.so.6.5",
+    "520 ubuntu 및 vivado설치/5 20 1f9dbd5938f080e78cc5f675a3d8b1a7",
+    "520 ubuntu 및 vivado설치",
     "520.md",
     "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7.md",
     "520/Link_to_libtinfo.so.6.5",
     "520/Link_to_libncursesw.so.6.5",
-    "Untitled.md",
     "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libtinfo.so.6.5",
-    "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libncursesw.so.6.5",
-    "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7"
+    "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7/Link_to_libncursesw.so.6.5"
   ]
 }
