@@ -2,17 +2,17 @@
 
 기본적으로 업데이트/업그레이드는 매일 해주는게 좋다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image.png)
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%201.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%201.png)
 
 whoami : 내 계정명
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%202.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%202.png)
 
 hostnamectl : 사용중인 컴퓨터의 사양 및 정보를 불러온다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%203.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%203.png)
 
 vscode 설치
 
@@ -22,49 +22,51 @@ vscode 설치
 
 해당 pc에서는 .dev x64버전을 사용하여 다운로드받는다
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%204.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%204.png)
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%205.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%205.png)
 
 해당 과정들을 터미널에서 진행해준다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%206.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%206.png)
 
 -는 빈공간(권한없음) rwx중 r(read) w(write) x(excute)를 의미한다.
 
 그렇기때문에 root로부터 권한을 부여해줘야한다
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%207.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%207.png)
 
 그 후 su를 입력하여주면 권한을 받을수있다
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%208.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%208.png)
 
 이것과는 별개로 exit로 su를 벗어나주고
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%209.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%209.png)
 
 sudi dpkg -i 탭키로 설치해준다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2010.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2010.png)
+
+Yes 선택
 
 그 후 설치가 완료되었으면 vscode 내에서 명령창을 열려면 F1 또는 Ctrl + Shift + P 를 통해 열수있다.
 
 한국어는 되도록 주석외에는 사용하지않고 영어를 쓰는걸 추천한다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2011.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2011.png)
 
 그후 익스텐션을 설치해야하는데 C/C++ Extension Pack을 깔면 C/C++과 C/C++ Theme등 함께 필요한 익스텐션이 같이 설치된다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2012.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2012.png)
 
 홈 폴더 내의 workspace_semicon 폴더를 생성한다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2013.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2013.png)
 
 그 후 작업할 3개의 폴더를 생성해준다.
 
-![image.png](0522%20vscode설치,%20c언어%20프로젝트생성,%20데이터타입,%20자료형,%20변수,%20연산자/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2014.png)
+![image.png](0522/5%2022%201fadbd5938f080e8ae98fddafcc3aaec/image%2014.png)
 
 ```c
 #include <stdio.h> // 전처리기, stdio.h에 들어있는 함수를 사용하기위해 불러옴
