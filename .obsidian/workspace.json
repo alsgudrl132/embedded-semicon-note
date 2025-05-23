@@ -23,14 +23,10 @@
             "id": "4de2f3812ae832e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0523/0523.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0523"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -183,10 +179,11 @@
   },
   "active": "4de2f3812ae832e6",
   "lastOpenFiles": [
+    "0523/0523.md",
+    "0523/0523/5.png",
+    "git.md",
     "0522/0522.md",
     "0523/0523/4.png",
-    "0523/0523.md",
-    "git.md",
     "0523/0523/2.png",
     "0523/0523/1.png",
     "0523/0523",
@@ -202,7 +199,6 @@
     "0522/0522/image 15.png",
     "0522/0522/image 14.png",
     "0521/0521/image.png",
-    "0522/0522/image 13.png",
     "0522/0522",
     "522/522.md",
     "522.md",
