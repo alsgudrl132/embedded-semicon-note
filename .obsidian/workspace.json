@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "92f5cab0c98ac52a",
+        "id": "8e5744f557617a48",
         "type": "tabs",
         "children": [
           {
-            "id": "ea583d7414308704",
+            "id": "6a7fbb9465b1be98",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0523/0523/4.png"
+                "file": "0526/0526.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "4"
-            }
-          },
-          {
-            "id": "4de2f3812ae832e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "0526"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,39 +168,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4de2f3812ae832e6",
+  "active": "6a7fbb9465b1be98",
   "lastOpenFiles": [
-    "0523/0523.md",
-    "0523/0523/5.png",
+    "0520 설치과정/0520.md",
+    "0526/0526.md",
     "git.md",
     "0522/0522.md",
+    "0523/0523.md",
+    "0521/0521.md",
+    "0521/0521/image.png",
+    "0526/0526",
+    "0526",
     "0523/0523/4.png",
+    "0522/0522/image 1.png",
+    "0522/0522/image 2.png",
+    "0522/0522/image 1.png",
+    "0523/0523/5.png",
     "0523/0523/2.png",
     "0523/0523/1.png",
     "0523/0523",
     "0523/0523/3.png",
     "Pasted image 20250522165330.png",
     "0523",
-    "0520/0520.md",
     "0522.md",
     "0522 1.md",
-    "0521/0521.md",
     "0522 2.md",
-    "0522/0522/image 16.png",
-    "0522/0522/image 15.png",
-    "0522/0522/image 14.png",
-    "0521/0521/image.png",
     "0522/0522",
     "522/522.md",
     "522.md",
     "0522",
-    "0520/0520/Link_to_libtinfo.so.6.5",
-    "0520/0520/Link_to_libncursesw.so.6.5",
-    "0520/0520",
-    "0520",
+    "0520 설치과정/0520/Link_to_libtinfo.so.6.5",
+    "0520 설치과정/0520/Link_to_libncursesw.so.6.5",
+    "0520 설치과정/0520",
+    "0520 설치과정",
     "520.md",
-    "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7.md",
-    "520/Link_to_libtinfo.so.6.5",
-    "520/Link_to_libncursesw.so.6.5"
+    "5 20 1f9dbd5938f080e78cc5f675a3d8b1a7.md"
   ]
 }
