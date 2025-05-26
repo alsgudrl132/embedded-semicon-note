@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5744f557617a48",
+        "id": "842da01976acf2dd",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7fbb9465b1be98",
+            "id": "3671ae2b5f04c4de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7fbb9465b1be98",
+  "active": "3671ae2b5f04c4de",
   "lastOpenFiles": [
-    "0523/0523.md",
+    "0526/0526/2.png",
     "0526/0526.md",
+    "0523/0523.md",
+    "git.md",
     "0526/0526/16.png",
     "0526/0526/10.png",
     "0526/0526/14.png",
@@ -182,7 +184,6 @@
     "0526/0526/5.png",
     "0526/0526/4.png",
     "0526/0526/3.png",
-    "git.md",
     "0520/0520.md",
     "0522/0522.md",
     "0521/0521.md",
